@@ -21,8 +21,6 @@ body{
     background-color: maroon;
     border:2px maroon;
     cursor:pointer;
-    text-decoration: none;
-    list-style-type: none;
 }
 .topbar ul{
     float:right;
